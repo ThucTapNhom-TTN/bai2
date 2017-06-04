@@ -1,0 +1,5 @@
+C:\Users\maitr\Downloads\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\bin\Debug\QL_QV_HS_THPT_Entity.dll
+C:\Users\maitr\Downloads\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+C:\Users\maitr\Downloads\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_GV_HS_THPT_Entity.csprojResolveAssemblyReference.cache
+C:\Users\maitr\Downloads\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.dll
+C:\Users\maitr\Downloads\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.pdb

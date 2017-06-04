@@ -1,0 +1,11 @@
+E:\Hoc_tap\ThucTapNhom\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\bin\Debug\QL_QV_HS_THPT_Entity.dll
+E:\GitHub\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\bin\Debug\QL_QV_HS_THPT_Entity.dll
+E:\GitHub\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+E:\GitHub\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.csprojResolveAssemblyReference.cache
+E:\GitHub\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.dll
+E:\GitHub\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.pdb
+E:\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\bin\Debug\QL_QV_HS_THPT_Entity.dll
+E:\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+E:\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.csprojResolveAssemblyReference.cache
+E:\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.dll
+E:\TTN_QL_GV_HS_THPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.pdb

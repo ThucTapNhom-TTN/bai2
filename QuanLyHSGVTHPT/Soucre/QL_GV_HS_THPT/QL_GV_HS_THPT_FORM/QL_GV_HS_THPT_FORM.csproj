@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{650C3905-253B-4D13-8A14-DA5825367460}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QL_GV_HS_THPT_FORM</RootNamespace>
+    <AssemblyName>QL_GV_HS_THPT_FORM</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmDangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangnhap.Designer.cs">
+      <DependentUpon>frmDangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGiaovien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGiaovien.Designer.cs">
+      <DependentUpon>frmGiaovien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHocsinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHocsinh.Designer.cs">
+      <DependentUpon>frmHocsinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHuongdan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHuongdan.Designer.cs">
+      <DependentUpon>frmHuongdan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQLGD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQLGD.Designer.cs">
+      <DependentUpon>frmQLGD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuantri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuantri.Designer.cs">
+      <DependentUpon>frmQuantri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThemGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemGV.Designer.cs">
+      <DependentUpon>frmThemGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThemtaikhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThemtaikhoan.Designer.cs">
+      <DependentUpon>frmThemtaikhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTimGV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTimGV.Designer.cs">
+      <DependentUpon>frmTimGV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTKB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTKB.Designer.cs">
+      <DependentUpon>frmTKB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QL_GV_HS_THPT_BUS\QL_GV_HS_THPT_BUS.csproj">
+      <Project>{1733d061-0e3a-42f1-8d3a-8e69d27c8f43}</Project>
+      <Name>QL_GV_HS_THPT_BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QL_GV_HS_THPT_DAL\QL_GV_HS_THPT_DAL.csproj">
+      <Project>{705ba706-e999-4140-b0f6-8bbaa6e940ac}</Project>
+      <Name>QL_GV_HS_THPT_DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QL_QV_HS_THPT_Entity\QL_GV_HS_THPT_Entity.csproj">
+      <Project>{bc18fdfe-012e-454c-a235-2965acff0819}</Project>
+      <Name>QL_GV_HS_THPT_Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmDangnhap.resx">
+      <DependentUpon>frmDangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGiaovien.resx">
+      <DependentUpon>frmGiaovien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHocsinh.resx">
+      <DependentUpon>frmHocsinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHuongdan.resx">
+      <DependentUpon>frmHuongdan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQLGD.resx">
+      <DependentUpon>frmQLGD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuantri.resx">
+      <DependentUpon>frmQuantri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemGV.resx">
+      <DependentUpon>frmThemGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThemtaikhoan.resx">
+      <DependentUpon>frmThemtaikhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTimGV.resx">
+      <DependentUpon>frmTimGV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTKB.resx">
+      <DependentUpon>frmTKB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1474570833_Login_in.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
