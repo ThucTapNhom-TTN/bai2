@@ -3,3 +3,8 @@ C:\Users\maitr\Downloads\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entit
 C:\Users\maitr\Downloads\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_GV_HS_THPT_Entity.csprojResolveAssemblyReference.cache
 C:\Users\maitr\Downloads\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.dll
 C:\Users\maitr\Downloads\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.pdb
+D:\git-school\bai2\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\bin\Debug\QL_QV_HS_THPT_Entity.dll
+D:\git-school\bai2\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\bin\Debug\QL_QV_HS_THPT_Entity.pdb
+D:\git-school\bai2\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_GV_HS_THPT_Entity.csprojResolveAssemblyReference.cache
+D:\git-school\bai2\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.dll
+D:\git-school\bai2\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_QV_HS_THPT_Entity\obj\Debug\QL_QV_HS_THPT_Entity.pdb
