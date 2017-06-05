@@ -39,7 +39,7 @@
             this.webBrowser1.Name = "webBrowser1";
             this.webBrowser1.Size = new System.Drawing.Size(741, 341);
             this.webBrowser1.TabIndex = 0;
-            this.webBrowser1.Url = new System.Uri("E:\\GitHub\\TTN_QL_GV_HS_THPT\\Soucre\\Huong dan_THPT.mhtml", System.UriKind.Absolute);
+            this.webBrowser1.Url = new System.Uri("D:\\git-school\\bai2\\TTN_QL_GV_HS_THPT\\Soucre\\Huong dan_THPT.mhtml", System.UriKind.Absolute);
             // 
             // frmHuongdan
             // 
