@@ -26,10 +26,3 @@ C:\Users\maitr\Downloads\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\b
 C:\Users\maitr\Downloads\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.csprojResolveAssemblyReference.cache
 C:\Users\maitr\Downloads\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.dll
 C:\Users\maitr\Downloads\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.pdb
-D:\git-school\bai2\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_GV_HS_THPT_DAL.dll
-D:\git-school\bai2\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_GV_HS_THPT_DAL.pdb
-D:\git-school\bai2\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_QV_HS_THPT_Entity.dll
-D:\git-school\bai2\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\bin\Debug\QL_QV_HS_THPT_Entity.pdb
-D:\git-school\bai2\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.csprojResolveAssemblyReference.cache
-D:\git-school\bai2\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.dll
-D:\git-school\bai2\QuanLyHSGVTHPT\Soucre\QL_GV_HS_THPT\QL_GV_HS_THPT_DAL\obj\Debug\QL_GV_HS_THPT_DAL.pdb
